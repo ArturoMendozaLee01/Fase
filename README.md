@@ -1,3 +1,3 @@
-#Fase1
+Fase1
 
-Fase 1 Proyecto EBC
+Fase 1 del Proyecto EBC
